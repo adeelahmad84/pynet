@@ -1,0 +1,14 @@
+sysname pynet-rtr2.twb-tech.com
+sysUptime 110586275
+ifDescr_fa4 FastEthernet4
+ifInOctets_fa4 175528161
+ifInUcastPkts_fa4 1881487
+ifOutOctets_fa4 195576435
+ifOutUcastPkts_fa4 1939865
+sysname pynet-rtr2.twb-tech.com
+sysUptime 110588030
+ifDescr_fa4 FastEthernet4
+ifInOctets_fa4 175531726
+ifInUcastPkts_fa4 1881508
+ifOutOctets_fa4 195579929
+ifOutUcastPkts_fa4 1939886
